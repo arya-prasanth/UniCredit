@@ -1,6 +1,4 @@
-<p align="center">
 # 🏦 UniCredit – Online Banking System
-</p>
 
 <p align="center">
   <b>A Modern Full-Stack Digital Banking Application</b>
